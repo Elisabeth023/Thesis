@@ -1,0 +1,863 @@
+,Date,Production,Multiple bill,Performances_ID,Normalised title,Original language,Composer,Original premiere,Original title,genre,Season
+0,1940-10-26,De Vroolijke vrouwtjes van Windsor,False,920041,De Lustige Vrouwtjes van Windsor,DUI,Otto Nicolai,1849,Die lustigen Weiber von Windsor,zangspel,1940-1941
+1,1940-10-27,De Vroolijke vrouwtjes van Windsor,False,594412,De Lustige Vrouwtjes van Windsor,DUI,Otto Nicolai,1849,Die lustigen Weiber von Windsor,zangspel,1940-1941
+2,1940-10-27,Het Land der Meisjes,False,793215,Het Land der Meisjes,N/A,N/A,N/A,N/A,N/A,1940-1941
+3,1940-11-03,1e Operaconcert,False,171545,1e Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+4,1940-11-03,Het Land der Meisjes,False,532356,Het Land der Meisjes,N/A,N/A,N/A,N/A,N/A,1940-1941
+5,1940-11-03,De Vroolijke vrouwtjes van Windsor,False,129061,De Lustige Vrouwtjes van Windsor,DUI,Otto Nicolai,1849,Die lustigen Weiber von Windsor,zangspel,1940-1941
+6,1940-11-04,Het Land der Meisjes,False,222303,Het Land der Meisjes,N/A,N/A,N/A,N/A,N/A,1940-1941
+7,1940-11-08,Opera-avond,False,455467,Opera-avond,N/A,N/A,N/A,N/A,N/A,1940-1941
+8,1940-11-10,Het Land der Meisjes,False,753203,Het Land der Meisjes,N/A,N/A,N/A,N/A,N/A,1940-1941
+9,1940-11-10,De Vledermuis,False,448241,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+10,1940-11-11,De Vledermuis,False,769615,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+11,1940-11-17,Winterconcert,False,431477,Winterconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+12,1940-11-17,De Vledermuis,False,988502,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+13,1940-11-17,De Molen van Sans Souci,False,911034,De Molen van Sans Souci,NL,Veremans Renaat,1937,De Molens van Sans Souci,operette,1940-1941
+14,1940-11-18,De Vroolijke vrouwtjes van Windsor,False,570621,De Lustige Vrouwtjes van Windsor,DUI,Otto Nicolai,1849,Die lustigen Weiber von Windsor,zangspel,1940-1941
+15,1940-11-24,De Molen van Sans Souci,False,188001,De Molen van Sans Souci,NL,Veremans Renaat,1937,De Molens van Sans Souci,operette,1940-1941
+16,1940-11-24,De Vledermuis,False,730586,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+17,1940-11-25,De Molen van Sans Souci,False,811601,De Molen van Sans Souci,NL,Veremans Renaat,1937,De Molens van Sans Souci,operette,1940-1941
+18,1940-12-01,Winterconcert,False,582972,Winterconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+19,1940-12-01,De Vledermuis,False,733438,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+20,1940-12-01,De Lustige Weduwe,False,924632,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1940-1941
+21,1940-12-02,Duits Winterconcert,False,163583,Duits Winterconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+22,1940-12-05,De Vledermuis,False,854955,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+23,1940-12-08,De Lustige Weduwe,False,854567,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1940-1941
+24,1940-12-08,Hansel en Gretel,False,312628,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+25,1940-12-12,Hansel en Gretel,False,467684,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+26,1940-12-15,Operaconcert,False,561380,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+27,1940-12-15,Hansel en Gretel,False,731723,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+28,1940-12-15,Het Land van de Glimlach,False,820302,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+29,1940-12-17,De Walküre,False,130812,De Walkure,DUI,Richard Wagner,1874,Die Walküre,gesamtkunstwerk,1940-1941
+31,1940-12-19,De Lustige Weduwe,False,121381,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1940-1941
+32,1940-12-22,Concert Duvosel,False,347185,Concert Duvosel,N/A,N/A,N/A,N/A,N/A,1940-1941
+33,1940-12-22,Het Dorp zonder Klok,False,226767,Het Dorp zonder Klok,N/A,N/A,N/A,N/A,N/A,1940-1941
+34,1940-12-25,Het Land van de Glimlach,False,650319,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+35,1940-12-25,Het Dorp zonder Klok,False,804577,Het Dorp zonder Klok,N/A,N/A,N/A,N/A,N/A,1940-1941
+36,1940-12-26,Het Land van de Glimlach,False,745835,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+37,1940-12-27,Volksvergadering Winterhulp,False,775143,Volksvergadering Winterhulp,N/A,N/A,N/A,N/A,N/A,1940-1941
+38,1940-12-29,Winterconcert,False,309309,Winterconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+39,1940-12-29,Het Dorp zonder Klok,False,910733,Het Dorp zonder Klok,N/A,N/A,N/A,N/A,N/A,1940-1941
+40,1940-12-29,De Schone Blauwe Donau,False,247063,De Blauwe Donau,DUI,Johann Strauss,1867,An der schönen blauen Donau,operetta,1940-1941
+41,1940-12-29,Hansel en Gretel,False,868787,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+42,1941-01-01,Het Land van de Glimlach,False,417114,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+43,1941-01-02,Filharmonisch Orkest,False,591443,Filharmonisch Orkest,N/A,N/A,N/A,N/A,N/A,1940-1941
+44,1941-01-05,De Lustige Weduwe,False,856388,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1940-1941
+46,1941-01-09,Cosi fan Tutte,False,309749,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1940-1941
+47,1941-01-12,Operaconcert,False,316456,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+48,1941-01-12,Cosi fan Tutte,False,254739,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1940-1941
+49,1941-01-12,Het Land van de Glimlach,False,681098,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+50,1941-01-13,Huldebetoon Heer Burgemeester,False,760499,Huldebetoon Heer Burgemeester,N/A,N/A,N/A,N/A,N/A,1940-1941
+51,1941-01-15,Figaro’s Hoekzeit,False,763502,Figaro’s Hoekzeit,N/A,N/A,N/A,N/A,N/A,1940-1941
+52,1941-01-16,Vina Tcjekaress,False,840352,Vina Tcjekaress,NL,Roels Oscar,1930,Vina Tcjekaress,operette,1940-1941
+53,1941-01-19,Het Land van de Glimlach,False,567838,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+54,1941-01-19,Cosi fan Tutte,False,768433,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1940-1941
+55,1941-01-21,Variété Duitse Weermacht,False,256103,Variété Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+56,1941-01-23,De Lustige Weduwe,False,135239,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1940-1941
+57,1941-01-23,Variété Duitse Weermacht,False,608853,Variété Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+58,1941-01-26,Operaconcert,False,140048,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+59,1941-01-26,Vina Tcjekaress,False,327500,Vina Tcjekaress,NL,Roels Oscar,1930,Vina Tcjekaress,operette,1940-1941
+60,1941-01-26,La Traviata,False,251032,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+61,1941-01-28,Lohengrin,False,400109,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1940-1941
+62,1941-01-30,La Traviata,False,357328,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+63,1941-02-02,La Traviata,False,544838,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+64,1941-02-02,Vina Tcjekaress,False,363305,Vina Tcjekaress,NL,Roels Oscar,1930,Vina Tcjekaress,operette,1940-1941
+65,1941-02-06,Cosi fan Tutte,False,216948,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1940-1941
+66,1941-02-09,Operaconcert,False,859889,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+67,1941-02-09,De Vledermuis,False,691272,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+68,1941-02-09,De Zigeunerbaron,False,106549,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+69,1941-02-11,Duits ontspanningsfeest,False,752120,Duits ontspanningsfeest,N/A,N/A,N/A,N/A,N/A,1940-1941
+70,1941-02-12,Variété Duitse Weermacht,False,590621,Variété Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+71,1941-02-13,De Zigeunerbaron,False,997309,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+72,1941-02-14,Muziekavond Duitse Weermacht,False,417134,Muziekavond Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+73,1941-02-16,De Zigeunerbaron,False,554126,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+74,1941-02-17,De Vledermuis,False,542899,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+75,1941-02-20,La Traviata,False,906924,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+76,1941-02-22,Duits Concert,False,218367,Duits Concert,N/A,N/A,N/A,N/A,N/A,1940-1941
+77,1941-02-23,Operaconcert,False,311122,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+78,1941-02-23,Het Land van de Glimlach,False,592854,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1940-1941
+79,1941-02-23,La Traviata,False,618683,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+80,1941-02-25,Fidelio,False,492942,Fidelio,DUI,Ludwig van Beethoven,1805,Fidelio,rettungsoper,1940-1941
+81,1941-02-27,De Vledermuis,False,227512,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+82,1941-03-02,De Zigeunerbaron,False,509046,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+83,1941-03-02,Frederika,False,354385,Frederika,DUI,Franz Lehár,1928,Friederika,leichte oper,1940-1941
+84,1941-03-04,Drei alte Schachteln,False,902462,Drei alte Schachteln,DUI,Walter Kollo,1917,Drei alte Schachteln,operette,1940-1941
+85,1941-03-05,Drei alte Schachteln,False,600217,Drei alte Schachteln,DUI,Walter Kollo,1917,Drei alte Schachteln,operette,1940-1941
+86,1941-03-06,Frederika,False,201926,Frederika,DUI,Franz Lehár,1928,Friederika,leichte oper,1940-1941
+87,1941-03-08,Tageszeifen der Liebe,False,260038,Tageszeifen der Liebe,?,?,?,?,?,1940-1941
+88,1941-03-09,Operaconcert,False,272513,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+89,1941-03-09,Frederika,False,278348,Frederika,DUI,Franz Lehár,1928,Friederika,leichte oper,1940-1941
+90,1941-03-09,De Barbier van Sevilla,False,515331,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+91,1941-03-13,La Traviata,False,996183,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+92,1941-03-13,Die Gleswister,False,619914,Die Gleswister,?,?,?,?,?,1940-1941
+93,1941-03-16,De Barbier van Sevilla,False,358265,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+94,1941-03-16,De Zigeunerbaron,False,144719,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+95,1941-03-18,Liebe in der Lerchengasse,False,650911,Liebe in der Lerchengasse,DUI,Arno Vetterling,1936,Liebe in der Lerchengasse,operette,1940-1941
+96,1941-03-19,Liebe in der Lerchengasse,False,662925,Liebe in der Lerchengasse,DUI,Arno Vetterling,1936,Liebe in der Lerchengasse,operette,1940-1941
+97,1941-03-20,Koekoek,False,843031,De Koekoek,N/A,Jaak Opsomer,?,De Koekoek,ballet,1940-1941
+98,1941-03-20,De Barbier van Sevilla,False,538413,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+99,1941-03-23,Frederika,False,662730,Frederika,DUI,Franz Lehár,1928,Friederika,leichte oper,1940-1941
+100,1941-03-23,La Traviata,False,437098,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1940-1941
+101,1941-03-26,Tanzabend van Ballet Staatsop. Berlin,False,782598,Tanzabend van Ballet Staatsop. Berlin,N/A,N/A,N/A,N/A,N/A,1940-1941
+102,1941-03-27,Anne-Marie,False,970306,Anne-Marie,N/A,N/A,N/A,N/A,N/A,1940-1941
+103,1941-03-29,Duits concert: Niedersachsen Orchester Hannover,False,316886,Duits concert: Niedersachsen Orchester Hannover,N/A,N/A,N/A,N/A,N/A,1940-1941
+104,1941-03-30,Kunstconcert,False,368250,Kunstconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+105,1941-03-30,Anne-Marie,False,623388,Anne-Marie,N/A,N/A,N/A,N/A,N/A,1940-1941
+106,1941-03-30,Het Meisje van Zaventem,False,387106,Het Meisje van Zaventem,NL,Emile Hullebroeck,1934,Het Meisje van Zaventem,zangspel,1940-1941
+107,1941-04-02,Zang en spreekbeurten,False,407809,Zang en spreekbeurten,N/A,N/A,N/A,N/A,N/A,1940-1941
+108,1941-04-03,Het Meisje van Zaventem,False,706152,Het Meisje van Zaventem,NL,Emile Hullebroeck,1934,Het Meisje van Zaventem,zangspel,1940-1941
+109,1941-04-06,Het Meisje van Zaventem,False,468403,Het Meisje van Zaventem,NL,Emile Hullebroeck,1934,Het Meisje van Zaventem,zangspel,1940-1941
+110,1941-04-06,Anne-Marie,False,384858,Anne-Marie,N/A,N/A,N/A,N/A,N/A,1940-1941
+111,1941-04-07,Variété Duitse Weermacht,False,334885,Variété Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+112,1941-04-07,Berliner Kunstlerfahrt,False,533828,Berliner Kunstlerfahrt,N/A,N/A,N/A,N/A,N/A,1940-1941
+113,1941-04-08,De Vledermuis,False,628591,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1940-1941
+114,1941-04-10,De Zigeunerbaron,False,161522,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1940-1941
+115,1941-04-13,De Arme Student,False,399311,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+117,1941-04-17,De Arme Student,False,914323,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+118,1941-04-20,De Arme Student,False,424003,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+119,1941-04-20,Het Meisje van Zaventem,False,606517,Het Meisje van Zaventem,NL,Emile Hullebroeck,1934,Het Meisje van Zaventem,zangspel,1940-1941
+120,1941-04-22,Hansel en Gretel,False,242559,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+121,1941-04-23,Hansel en Gretel,False,866074,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1940-1941
+122,1941-04-24,De Arme Student,False,232557,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+123,1941-04-27,In het Witte Paard,False,881978,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+125,1941-05-01,In het Witte Paard,False,480912,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+126,1941-05-02,Duitse Jazz Muziek,False,157138,Duitse Jazz Muziek,N/A,N/A,N/A,N/A,N/A,1940-1941
+127,1941-05-03,In het Witte Paard,False,267619,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+128,1941-05-04,Operaconcert,False,536261,Operaconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+129,1941-05-04,In het Witte Paard,False,246614,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+131,1941-05-09,De Neef uit het Oosten,False,898094,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1940-1941
+132,1941-05-10,De Neef uit het Oosten,False,685285,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1940-1941
+133,1941-05-12,In het Witte Paard,False,312664,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+135,1941-05-18,In het Witte Paard,False,241459,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+137,1941-05-21,Gastspiel des Nationalsocialistischen symphonie-orkesters,False,615216,Gastspiel des Nationalsocialistischen symphonie-orkesters,N/A,N/A,N/A,N/A,N/A,1940-1941
+138,1941-05-22,In het Witte Paard,False,777053,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1940-1941
+140,1941-05-25,De Vogelhandelaar,False,405814,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+142,1941-05-29,De Vogelhandelaar,False,518942,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+143,1941-05-31,Der Dorfbarbier,False,673169,Der Dorfbarbier,DUI,Johan Schenk,1796,Der Dorfbarbier,zangspel,1940-1941
+144,1941-06-01,Weermachtconcert,False,993665,Weermachtconcert,N/A,N/A,N/A,N/A,N/A,1940-1941
+145,1941-06-01,De Vogelhandelaar,False,973963,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+147,1941-06-02,De Vogelhandelaar,False,641764,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+148,1941-06-05,De Vogelhandelaar,False,364585,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+149,1941-06-07,Balletkorps van Berliner Opera,False,453167,Balletkorps van Berliner Opera,N/A,N/A,N/A,N/A,N/A,1940-1941
+151,1941-06-08,De Vogelhandelaar,False,647844,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1940-1941
+153,1941-06-12,De Arme Student,False,879707,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+154,1941-06-15,De Arme Student,False,248806,De Arme Student,DUI,Carl Millöcker,1882,Der Bettelstudent,operette,1940-1941
+156,1941-06-19,De Graaf van Luxemburg,False,736807,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1940-1941
+157,1941-06-22,De Graaf van Luxemburg,False,776667,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1940-1941
+158,1941-06-22,Madame Butterfly,False,162556,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1940-1941
+159,1941-06-26,Madame Butterfly,False,165781,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1940-1941
+160,1941-06-27,Tanzabend ‘Kraft durch Freude’,False,348824,Tanzabend ‘Kraft durch Freude’,N/A,N/A,N/A,N/A,N/A,1940-1941
+161,1941-06-29,Die Deutsche Wehrmacht speelt en zingt,False,786499,Die Deutsche Wehrmacht speelt en zingt,N/A,N/A,N/A,N/A,N/A,1940-1941
+162,1941-06-29,Madame Butterfly,False,591425,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1940-1941
+163,1941-06-29,De Graaf van Luxemburg,False,472027,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1940-1941
+164,1941-07-03,Madame Butterfly,False,788252,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1940-1941
+165,1941-07-09,Ein Abend bei Peter Igelhof,False,899823,Ein Abend bei Peter Igelhof,N/A,N/A,N/A,N/A,N/A,1940-1941
+166,1941-07-13,Kunstconcert Lieven Duvosel,False,661314,Kunstconcert Lieven Duvosel,N/A,N/A,N/A,N/A,N/A,1940-1941
+167,1941-07-17,‘Gloria Express’ voor Duitse Weermach’,False,881786,‘Gloria Express’ voor Duitse Weermach’,N/A,N/A,N/A,N/A,N/A,1940-1941
+168,1941-07-18,Variété Kraft dur (sic) Freude,False,144832,Variété Kraft dur (sic) Freude,N/A,N/A,N/A,N/A,N/A,1940-1941
+169,1941-07-29,De Barbier van Sevilla,False,562735,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+170,1941-07-30,De Barbier van Sevilla,False,440973,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+171,1941-07-31,De Barbier van Sevilla,False,920523,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1940-1941
+172,1941-08-03,Concert Duitse Weermacht,False,521550,Concert Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+173,1941-08-11,De weg naar het paradijs,False,430882,De weg naar het paradijs,?,?,?,?,?,1940-1941
+174,1941-08-11,Mirandolina,False,174237,Mirandolina,N/A,N/A,N/A,N/A,N/A,1940-1941
+175,1941-08-15,Marieken van Nijmegem,False,256867,Marieken van Nijmegem,N/A,N/A,N/A,N/A,N/A,1940-1941
+176,1941-08-17,Groot Duvosel Concert,False,750709,Groot Duvosel Concert,N/A,N/A,N/A,N/A,N/A,1940-1941
+177,1941-08-24,Der Eheftreich voor Duitse Weermacht,False,400895,Der Eheftreich voor Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1940-1941
+178,1941-09-02,War ihr Wollt,False,957100,War ihr Wollt,?,?,?,?,?,1941-1942
+179,1941-09-03,War ihr Wollt,False,691688,War ihr Wollt,?,?,?,?,?,1941-1942
+180,1941-09-07,Duits concert: Die Deutsche Arbeitsfront: NS Gemeinschaft ‘Kraft Durch Freude’,False,613714,Duits concert: Die Deutsche Arbeitsfront: NS Gemeinschaft ‘Kraft Durch Freude’,N/A,N/A,N/A,N/A,N/A,1941-1942
+181,1941-09-08,Concert en zang door het Rheinifekes Landesorchefter Köln,False,218047,Concert en zang door het Rheinifekes Landesorchefter Köln,N/A,N/A,N/A,N/A,N/A,1941-1942
+182,1941-09-19,Madame Butterfly,False,507612,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+183,1941-09-23,Madame Butterfly,False,524190,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+184,1941-09-27,Lohengrin,False,253935,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1941-1942
+185,1941-09-28,Lohengrin,False,202862,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1941-1942
+186,1941-09-28,Weenerwalsen,False,497935,Weenerwalsen,N/A,N/A,N/A,N/A,N/A,1941-1942
+187,1941-10-02,Lohengrin,False,582483,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1941-1942
+188,1941-10-04,Weenerwalsen,False,292899,Weenerwalsen,N/A,N/A,N/A,N/A,N/A,1941-1942
+189,1941-10-05,Weenerwalsen,False,736755,Weenerwalsen,N/A,N/A,N/A,N/A,N/A,1941-1942
+190,1941-10-05,Lohengrin,False,551741,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1941-1942
+191,1941-10-09,Weenerwalsen,False,157098,Weenerwalsen,N/A,N/A,N/A,N/A,N/A,1941-1942
+192,1941-10-11,Marieken van Nijmegem,False,232643,Marieken van Nijmegem,N/A,N/A,N/A,N/A,N/A,1941-1942
+193,1941-10-12,Marieken van Nijmegem,False,546186,Marieken van Nijmegem,N/A,N/A,N/A,N/A,N/A,1941-1942
+194,1941-10-12,De Graaf van Luxemburg,False,808447,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1941-1942
+195,1941-10-14,De Meesterzangers van Nurenberg,False,371670,De Meesterzangers van Nurenberg,DUI,Richard Wagner,1868,Die Meistersinger von Nürnberg,zangspel,1941-1942
+196,1941-10-16,Marieken van Nijmegem,False,494212,Marieken van Nijmegem,N/A,N/A,N/A,N/A,N/A,1941-1942
+197,1941-10-18,Monica,False,571808,Monica,N/A,N/A,N/A,N/A,N/A,1941-1942
+198,1941-10-19,Monica,False,276658,Monica,N/A,N/A,N/A,N/A,N/A,1941-1942
+199,1941-10-19,Marieken van Nijmegem,False,533277,Marieken van Nijmegem,N/A,N/A,N/A,N/A,N/A,1941-1942
+200,1941-10-23,De Graaf van Luxemburg,False,396954,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1941-1942
+201,1941-10-25,Bohème,False,735197,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+202,1941-10-26,20 minuten ballet Sylphiden,False,581176,De Sylphiden,N/A,Michel Brusselmans,?,De Sylphiden,ballet,1941-1942
+203,1941-10-26,Monica,False,251294,Monica,N/A,N/A,N/A,N/A,N/A,1941-1942
+204,1941-10-30,20 minuten ballet Sylphiden,False,122913,De Sylphiden,N/A,Michel Brusselmans,?,De Sylphiden,ballet,1941-1942
+205,1941-10-30,Bohème,False,628984,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+206,1941-10-31,Zwei Frohe Stunden,False,179548,Zwei Frohe Stunden,N/A,N/A,N/A,N/A,N/A,1941-1942
+207,1941-11-01,Laagland,False,628651,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+208,1941-11-02,De Graaf van Luxemburg,False,320298,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1941-1942
+209,1941-11-02,Laagland,False,816950,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+210,1941-11-05,Concert en zang door de Duitse Weermacht,False,666290,Concert en zang door de Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1941-1942
+211,1941-11-06,Monica,False,710964,Monica,N/A,N/A,N/A,N/A,N/A,1941-1942
+212,1941-11-07,Pianorecital Walter Rummel,False,518269,Pianorecital Walter Rummel,N/A,N/A,N/A,N/A,N/A,1941-1942
+213,1941-11-08,De Graaf van Luxemburg,False,290907,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1941-1942
+214,1941-11-09,Laagland,False,585287,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+215,1941-11-09,20 minuten ballet Sylphiden,False,158180,De Sylphiden,N/A,Michel Brusselmans,?,De Sylphiden,ballet,1941-1942
+216,1941-11-09,Bohème,False,993488,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+217,1941-11-12,Duits Weermachtconcert en zang met koor,False,914716,Duits Weermachtconcert en zang met koor,N/A,N/A,N/A,N/A,N/A,1941-1942
+218,1941-11-13,Laagland,False,963635,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+219,1941-11-14,Dansconcert Robert Garden en zijn orkest,False,822487,Dansconcert Robert Garden en zijn orkest,N/A,N/A,N/A,N/A,N/A,1941-1942
+220,1941-11-15,Madame Butterfly,False,221513,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+221,1941-11-16,"Eva, het fabrieksmeisje",False,840531,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+222,1941-11-16,20 minuten ballet Koekoek,False,203970,De Koekoek,N/A,Jaak Opsomer,?,De Koekoek,ballet,1941-1942
+223,1941-11-16,Madame Butterfly,False,175554,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+224,1941-11-17,Monika,False,759334,Monika,DUI,Nico Dostal,1937,Monika,operette,1941-1942
+225,1941-11-18,Concert Duitse Weermacht,False,119622,Concert Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1941-1942
+226,1941-11-19,20 minuten ballet Koekoek,False,589755,De Koekoek,N/A,Jaak Opsomer,?,De Koekoek,ballet,1941-1942
+227,1941-11-19,Madame Butterfly,False,257268,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+228,1941-11-20,20 minuten ballet Koekoek,False,389917,De Koekoek,N/A,Jaak Opsomer,?,De Koekoek,ballet,1941-1942
+229,1941-11-20,Madame Butterfly,False,991526,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+230,1941-11-22,"Eva, het fabrieksmeisje",False,660285,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+231,1941-11-23,Madame Butterfly,False,738775,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1941-1942
+232,1941-11-23,"Eva, het fabrieksmeisje",False,946297,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+233,1941-11-27,"Eva, het fabrieksmeisje",False,581182,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+234,1941-11-29,Monika,False,224707,Monika,DUI,Nico Dostal,1937,Monika,operette,1941-1942
+235,1941-11-30,Monika,False,370755,Monika,DUI,Nico Dostal,1937,Monika,operette,1941-1942
+237,1941-12-03,Modeshow,False,478288,Modeshow,N/A,N/A,N/A,N/A,N/A,1941-1942
+239,1941-12-04,20 minuten ballet Sylphiden,False,167926,De Sylphiden,N/A,Michel Brusselmans,?,De Sylphiden,ballet,1941-1942
+240,1941-12-04,Bohème,False,253050,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+241,1941-12-05,Walter Rummel,False,167989,Walter Rummel,N/A,N/A,N/A,N/A,N/A,1941-1942
+242,1941-12-06,Ballet,False,624527,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1941-1942
+243,1941-12-06,Bohème,False,893892,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+244,1941-12-07,Ballet,False,186994,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1941-1942
+245,1941-12-07,Bohème,False,194653,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+246,1941-12-07,Laagland,False,938218,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+247,1941-12-09,De Barbier van Sevilla,False,441460,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+248,1941-12-10,De Barbier van Sevilla,False,839746,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+249,1941-12-11,Monika,False,732502,Monika,DUI,Nico Dostal,1937,Monika,operette,1941-1942
+250,1941-12-12,Bohème,False,698126,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+251,1941-12-13,Monika,False,636737,Monika,DUI,Nico Dostal,1937,Monika,operette,1941-1942
+252,1941-12-14,"Eva, het fabrieksmeisje",False,535535,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+253,1941-12-14,Ballet,False,661937,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1941-1942
+254,1941-12-14,Bohème,False,745894,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1941-1942
+255,1941-12-16,Filharmonisch orkest van Antwerpen,False,253108,Filharmonisch orkest van Antwerpen,N/A,N/A,N/A,N/A,N/A,1941-1942
+256,1941-12-18,Martha,False,514466,Martha,DUI,Friedrich von Flotow,1847,Martha,komische oper,1941-1942
+257,1941-12-20,De Parelvissers,False,184262,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+258,1941-12-21,Spreekbeurt door Steenbondt,False,391967,Spreekbeurt door Steenbondt,N/A,N/A,N/A,N/A,N/A,1941-1942
+259,1941-12-21,De Parelvissers,False,384927,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+260,1941-12-21,"Eva, het fabrieksmeisje",False,604646,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1941-1942
+261,1941-12-25,Het Land van de Glimlach,False,745452,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+262,1941-12-25,De Parelvissers,False,825223,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+263,1941-12-27,Orpheus,False,942402,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+264,1941-12-28,Orpheus,False,510071,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+265,1941-12-28,Martha,False,176884,Martha,DUI,Friedrich von Flotow,1847,Martha,komische oper,1941-1942
+266,1941-12-29,De Parelvissers,False,259588,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+267,1941-12-30,Orpheus,False,667023,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+268,1942-01-01,Orpheus,False,798231,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+274,1942-01-11,Laagland,False,145831,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1941-1942
+276,1942-01-15,De Parelvissers,False,922641,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+277,1942-01-16,Die Entfürung aus dem Serail,False,768132,De Ontvoering uit het Serail,DUI,Wolfgang Amadeus Mozart,1782,Die Entführung aus dem Serail,zangspel,1941-1942
+278,1942-01-17,Concert NIR,False,614773,Concert NIR,N/A,N/A,N/A,N/A,N/A,1941-1942
+279,1942-01-17,De Parelvissers,False,412195,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1941-1942
+280,1942-01-18,De Vledermuis,False,677092,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+282,1942-01-22,De Vledermuis,False,313212,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+283,1942-01-24,Tosca,False,138486,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+284,1942-01-25,Het Land van de Glimlach,False,238502,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+285,1942-01-25,Tosca,False,774175,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+286,1942-01-29,Tosca,False,400166,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+287,1942-01-31,Rigoletto,False,172848,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1941-1942
+288,1942-02-01,Tosca,False,918911,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+290,1942-02-02,Galaconcert,False,274221,Galaconcert,N/A,N/A,N/A,N/A,N/A,1941-1942
+291,1942-02-04,De Vledermuis,False,259693,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+292,1942-02-05,Rigoletto,False,893743,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1941-1942
+293,1942-02-07,De Vledermuis,False,774243,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+294,1942-02-08,Rigoletto,False,387441,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1941-1942
+295,1942-02-08,De Dans met de Keizerin,False,648058,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+296,1942-02-11,Concert symfonieorkest,False,855913,Concert symfonieorkest,N/A,N/A,N/A,N/A,N/A,1941-1942
+297,1942-02-12,De Dans met de Keizerin,False,969543,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+298,1942-02-14,De Dans met de Keizerin,False,982932,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+300,1942-02-15,De Dans met de Keizerin,False,786777,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+301,1942-02-15,Het Land van de Glimlach,False,483617,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+302,1942-02-19,Tosca,False,562817,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+303,1942-02-20,Tsaar en Timmerman,False,788436,Czaar en Timmerman,DUI,Albert Lortzing,1837,Zar und Zimmermann,zangspel,1941-1942
+304,1942-02-21,Het Land van de Glimlach,False,351537,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+305,1942-02-22,Tosca,False,305625,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1941-1942
+306,1942-02-22,De Vledermuis,False,549113,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+307,1942-02-24,Orpheus,False,841644,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+308,1942-02-26,De Vledermuis,False,578502,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+309,1942-02-28,Rigoletto,False,557659,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1941-1942
+310,1942-03-01,De Vledermuis,False,869451,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+311,1942-03-01,Orpheus,False,963860,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+312,1942-03-04,Concert Duitse Weermacht,False,428934,Concert Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1941-1942
+313,1942-03-05,Orpheus,False,894089,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+314,1942-03-06,Die Weenersangerknaben,False,646696,Wiener Sängerknaben,N/A,N/A,N/A,N/A,N/A,1941-1942
+315,1942-03-07,Orpheus,False,971204,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1941-1942
+316,1942-03-08,Het Land van de Glimlach,False,736466,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+317,1942-03-08,De Dans met de Keizerin,False,997978,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+318,1942-03-12,Het Land van de Glimlach,False,727288,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+319,1942-03-14,De Vliegende Hollander,False,174728,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+320,1942-03-15,De Vliegende Hollander,False,905202,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+321,1942-03-15,La Traviata,False,117236,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+322,1942-03-19,De Vliegende Hollander,False,335154,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+323,1942-03-21,De Dans met de Keizerin,False,966880,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+324,1942-03-22,De Dans met de Keizerin,False,979681,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+325,1942-03-22,Rigoletto,False,964494,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1941-1942
+326,1942-03-24,De Vliegende Hollander,False,277740,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+327,1942-03-26,La Traviata,False,439245,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+328,1942-03-28,De Vliegende Hollander,False,284627,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+329,1942-03-29,La Traviata,False,142496,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+330,1942-03-29,De Vliegende Hollander,False,854818,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+331,1942-04-02,De Dans met de Keizerin,False,657993,De Dans met de Keizerin,?,?,?,?,?,1941-1942
+332,1942-04-04,Prinses Zonneschijn,False,899095,Prinses Zonneschijn,NL,Paul Gilson,1903,Prinses Zonneschijn,operetta,1941-1942
+333,1942-04-05,Ballet,False,756138,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1941-1942
+334,1942-04-05,De Barbier van Sevilla,False,428076,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+335,1942-04-05,Prinses Zonneschijn,False,436822,Prinses Zonneschijn,NL,Paul Gilson,1903,Prinses Zonneschijn,operetta,1941-1942
+336,1942-04-08,Het Land van de Glimlach,False,609298,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+337,1942-04-09,La Traviata,False,688758,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+338,1942-04-11,La Traviata,False,512777,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+339,1942-04-12,Het Land van de Glimlach,False,982106,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1941-1942
+341,1942-04-14,Prinses Zonneschijn,False,905251,Prinses Zonneschijn,NL,Paul Gilson,1903,Prinses Zonneschijn,operetta,1941-1942
+342,1942-04-16,Ballet Carnaval,False,292962,Carnaval,N/A,Jaak Opsomer,1936,Carnaval,ballet,1941-1942
+343,1942-04-16,De Barbier van Sevilla,False,302378,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+344,1924-04-18,Het Land van de Glimlach,False,562355,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1923-1924
+345,1942-04-19,La Traviata,False,694959,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+346,1942-04-19,De Vliegende Hollander,False,708945,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+347,1942-04-22,De Vledermuis,False,505802,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1941-1942
+348,1942-04-23,De Vliegende Hollander,False,579436,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+349,1942-04-25,De Barbier van Sevilla,False,395459,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+350,1942-04-26,De Vliegende Hollander,False,309542,De Vliegende Hollander,DEE,Richard Wagner,1843,Der fliegende Holländer,romantische oper,1941-1942
+351,1942-04-26,La Traviata,False,525960,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+352,1942-04-30,Prinses Zonneschijn,False,874625,Prinses Zonneschijn,NL,Paul Gilson,1903,Prinses Zonneschijn,operetta,1941-1942
+353,1942-05-01,Feest van de Arbeid,False,685461,Feest van de Arbeid,N/A,N/A,N/A,N/A,N/A,1941-1942
+354,1942-05-02,De Ontvoering uit het Serail,False,812004,De Ontvoering uit het Serail,DUI,Wolfgang Amadeus Mozart,1782,Die Entführung aus dem Serail,zangspel,1941-1942
+355,1942-05-03,Prinses Zonneschijn,False,828872,Prinses Zonneschijn,NL,Paul Gilson,1903,Prinses Zonneschijn,operetta,1941-1942
+356,1942-05-03,De Ontvoering uit het Serail,False,789125,De Ontvoering uit het Serail,DUI,Wolfgang Amadeus Mozart,1782,Die Entführung aus dem Serail,zangspel,1941-1942
+357,1942-05-04,Symfonisch concert nav Mozartweek,False,299225,Symfonisch concert nav Mozartweek,N/A,N/A,N/A,N/A,N/A,1941-1942
+358,1942-05-05,Mozart theenamiddag,False,655088,Mozart theenamiddag,N/A,N/A,N/A,N/A,N/A,1941-1942
+359,1942-05-06,Voordracht Mozart in Redoutezaal,False,582123,Voordracht Mozart in Redoutezaal,N/A,N/A,N/A,N/A,N/A,1941-1942
+360,1942-05-07,"Kamermuziek, herdenking Mozart",False,122246,"Kamermuziek, herdenking Mozart",N/A,N/A,N/A,N/A,N/A,1941-1942
+361,1942-05-08,Symfonisch Orkest: Paul Douliez,False,616099,Symfonisch Orkest: Paul Douliez,N/A,N/A,N/A,N/A,N/A,1941-1942
+362,1942-05-09,Cosi fan Tutte,False,792148,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1941-1942
+363,1942-05-10,De Ontvoering uit het Serail,False,920907,De Ontvoering uit het Serail,DUI,Wolfgang Amadeus Mozart,1782,Die Entführung aus dem Serail,zangspel,1941-1942
+365,1942-05-14,De Barbier van Sevilla,False,792458,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+366,1942-05-16,De Mascotte,False,773492,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+367,1942-05-17,De Mascotte,False,945550,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+368,1942-05-17,De Barbier van Sevilla,False,832726,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1941-1942
+369,1942-05-18,De Ontvoering uit het Serail,False,575868,De Ontvoering uit het Serail,DUI,Wolfgang Amadeus Mozart,1782,Die Entführung aus dem Serail,zangspel,1941-1942
+370,1942-05-21,De Mascotte,False,203597,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+371,1942-05-23,La Traviata,False,595959,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1941-1942
+372,1942-05-24,Banket (Grote Bazar) salons,False,380093,Banket (Grote Bazar) salons,N/A,N/A,N/A,N/A,N/A,1941-1942
+373,1942-05-24,Cosi fan Tutte,False,661013,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1941-1942
+376,1942-05-28,Cosi fan Tutte,False,999156,Cosi fan Tutte,ITA,Wolfgang Amadeus Mozart,1794,"Cosi fan tutte, ossia La scuola degli amanti",opera buffa,1941-1942
+377,1942-05-30,De Lustige Weduwe,False,845460,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1941-1942
+378,1942-05-31,De Lustige Weduwe,False,748946,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1941-1942
+379,1942-05-31,De Mascotte,False,100502,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+380,1942-06-01,Faust,False,219286,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+381,1942-06-04,Faust,False,113321,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+382,1942-06-06,Faust,False,757487,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+383,1942-06-07,De Mascotte,False,863795,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+384,1942-06-07,Faust,False,826811,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+385,1942-06-11,De Lustige Weduwe,False,861486,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1941-1942
+386,1942-06-13,De Zigeunerbaron,False,619542,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1941-1942
+387,1942-06-14,Faust,False,322836,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+388,1942-06-14,De Lustige Weduwe,False,120946,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1941-1942
+389,1942-06-16,Tentoonstelling in Redoutezaal,False,370282,Tentoonstelling in Redoutezaal,N/A,N/A,N/A,N/A,N/A,1941-1942
+390,1942-06-16,Zwei Frohe Stunden,False,517992,Zwei Frohe Stunden,N/A,N/A,N/A,N/A,N/A,1941-1942
+391,1942-06-17,Variété voor de Duitse Weermacht,False,860733,Variété voor de Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1941-1942
+392,1942-06-18,De Zigeunerbaron,False,334112,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1941-1942
+393,1942-06-20,Faust,False,750637,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+394,1942-06-21,De Zigeunerbaron,False,706917,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1941-1942
+396,1942-06-22,De Zigeunerbaron,False,950548,De Zigeunerbaron,DUI,Johann Strauss,1885,Der Zigeunerbaron,operetta,1941-1942
+397,1942-06-25,Faust,False,162204,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+398,1942-06-27,De Mascotte,False,147012,De Mascotte,FR,Richard Strauss,1933,Arabella,lyrisch komedie,1941-1942
+399,1942-06-28,De Lustige Weduwe,False,760765,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1941-1942
+400,1942-06-28,Faust,False,260390,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+401,1942-06-29,Faust,False,167243,Faust,FR,Charles Gounod,1859,Faust,grand opera,1941-1942
+402,1942-07-01,Concert van de Duitse Weermacht,False,214676,Concert van de Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1941-1942
+403,1942-07-04,Balletavond Opera van Essen,False,255329,Balletavond Opera van Essen,N/A,N/A,N/A,N/A,N/A,1941-1942
+404,1942-07-05,Bont artiestenfeest,False,152425,Bont artiestenfeest,N/A,N/A,N/A,N/A,N/A,1941-1942
+406,1942-07-11,Tijl Uilenspiegel,False,657029,Thijl Uilenspiegel,DUI,Richard Strauss,1895,Till Eulenspiegels lustige Streiche,tonal poem,1941-1942
+407,1942-07-12,Bont artiestenfeest,False,316876,Bont artiestenfeest,N/A,N/A,N/A,N/A,N/A,1941-1942
+408,1942-07-16,Artiestenrevue,False,655577,Artiestenrevue,N/A,N/A,N/A,N/A,N/A,1941-1942
+409,1942-07-18,Spreekbeurt,False,675581,Spreekbeurt,N/A,N/A,N/A,N/A,N/A,1941-1942
+410,1942-07-19,Die Verkaufte Braut,False,477375,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1941-1942
+411,1942-07-20,Die Verkaufte Braut,False,888409,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1941-1942
+412,1942-07-21,Die Verkaufte Braut,False,890899,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1941-1942
+413,1942-08-16,Tijl Uilenspiegel,False,878528,Thijl Uilenspiegel,DUI,Richard Strauss,1895,Till Eulenspiegels lustige Streiche,tonal poem,1941-1942
+414,1942-09-06,Herhaling ‘sportfeest’ van de politie,False,295808,Herhaling ‘sportfeest’ van de politie,N/A,N/A,N/A,N/A,N/A,1942-1943
+415,1942-10-01,Tannhäuser,False,809486,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+416,1942-10-04,Weenerbloed,False,937457,Weenerbloed,DUI,Johann Strauss,1899,Wiener Blut,operetta,1942-1943
+417,1942-10-04,Tannhäuser,False,825911,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+418,1942-10-05,1 e symfonisch concert,False,572297,1 e symfonisch concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+419,1942-10-06,Weenerbloed,False,867723,Weenerbloed,DUI,Johann Strauss,1899,Wiener Blut,operetta,1942-1943
+420,1942-10-07,Tosca,False,754311,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+421,1942-10-08,Tosca,False,551416,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+422,1942-10-11,Tosca,False,762772,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+423,1942-10-11,Weenerbloed,False,485282,Weenerbloed,DUI,Johann Strauss,1899,Wiener Blut,operetta,1942-1943
+424,1942-10-13,Tosca,False,375404,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+425,1942-10-15,Weenerbloed,False,912393,Weenerbloed,DUI,Johann Strauss,1899,Wiener Blut,operetta,1942-1943
+426,1942-10-17,Ein Heiterer Abend,False,261827,Ein Heiterer Abend,N/A,N/A,N/A,N/A,N/A,1942-1943
+427,1942-10-18,Tannhäuser,False,783869,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+428,1942-10-18,Tosca,False,202893,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+429,1942-10-19,Grootsche Kampvergadering,False,373362,Grootsche Kampvergadering,N/A,N/A,N/A,N/A,N/A,1942-1943
+430,1942-10-20,Tannhäuser,False,416137,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+431,1942-10-22,Weenerbloed,False,212609,Weenerbloed,DUI,Johann Strauss,1899,Wiener Blut,operetta,1942-1943
+432,1942-10-25,Faust,False,291134,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+433,1942-10-25,Monika,False,754159,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+434,1942-10-27,Faust,False,238490,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+435,1942-10-29,Gudrun,False,103870,Gudrun,DUI,Felix Draeseke,1883,Gudrun,operetta,1942-1943
+436,1942-10-29,Monika,False,192145,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+437,1942-11-01,Gudrun,False,100476,Gudrun,DUI,Felix Draeseke,1883,Gudrun,operetta,1942-1943
+438,1942-11-01,Weenerbloed/Weenerwalsen,False,600720,Weenerbloed/Weenerwalsen,N/A,N/A,N/A,N/A,N/A,1942-1943
+439,1942-11-03,Monika,False,760192,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+440,1942-11-05,Faillissement,False,577494,Faillissement,N/A,N/A,N/A,N/A,N/A,1942-1943
+441,1942-11-05,Monika,False,551860,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+442,1942-11-08,Monika,False,168040,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+443,1942-11-08,Gudrun,False,654204,Gudrun,DUI,Felix Draeseke,1883,Gudrun,operetta,1942-1943
+444,1942-11-10,Gudrun,False,746700,Gudrun,DUI,Felix Draeseke,1883,Gudrun,operetta,1942-1943
+445,1942-11-10,Getrouwd,False,453171,Getrouwd,N/A,N/A,N/A,N/A,N/A,1942-1943
+446,1942-11-12,Tosca,False,646789,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+447,1942-11-15,Salons: voordracht,True,538833,Salons: voordracht,N/A,N/A,N/A,N/A,N/A,1942-1943
+448,1942-11-15,eedaflegging VNV,True,538833,eedaflegging VNV,N/A,N/A,N/A,N/A,N/A,1942-1943
+449,1942-11-15,Bohème,False,304228,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+450,1942-11-15,Tosca,False,238279,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+451,1942-11-16,2 de Symfonieconcert,False,356846,2 de Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1942-1943
+452,1942-11-17,Bohème,False,554772,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+453,1942-11-19,Bohème,False,312050,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+454,1942-11-22,Tosca,False,225661,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+455,1942-11-22,Gasparone,False,879228,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+456,1942-11-24,Tosca,False,497454,Tosca,ITA,Giacomo Puccini,1900,Tosca,verismo opera,1942-1943
+457,1942-11-26,Gasparone,False,309645,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+459,1942-11-29,Faust,False,667758,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+460,1942-11-29,Spreekbeurt Duitse Weermacht,False,968383,Spreekbeurt Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1942-1943
+461,1942-11-29,Bohème,False,143245,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+462,1942-12-01,Gasparone,False,259992,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+463,1942-12-03,Monika,False,753404,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+464,1942-12-06,Sint Niklaasfeest,False,625841,Sint Niklaasfeest,N/A,N/A,N/A,N/A,N/A,1942-1943
+465,1942-12-06,Ballet Danse Suite,False,727895,Ballet Danse Suite,N/A,N/A,N/A,N/A,N/A,1942-1943
+466,1942-12-06,Madame Butterfly,False,787166,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+467,1942-12-06,Faust,False,220389,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+468,1942-12-08,Faust,False,747056,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+469,1942-12-10,Don Juan,False,335841,Don Juan,ITA,Wolfgang Amadeus Mozart,1787,Don Giovanni,opera buffa,1942-1943
+470,1942-12-13,Gasparone,False,471600,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+471,1942-12-13,Don Juan,False,756194,Don Juan,ITA,Wolfgang Amadeus Mozart,1787,Don Giovanni,opera buffa,1942-1943
+472,1942-12-14,3 e Symfonisch Concert,False,432878,3 e Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+473,1942-12-15,Ballet,False,392399,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1942-1943
+474,1942-12-15,Madame Butterfly,False,135590,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+475,1942-12-17,Sint Jansvuur,False,274084,Sint Jansvuur,N/A,N/A,N/A,N/A,N/A,1942-1943
+476,1942-12-17,Concert Regenburger – Domkers,False,402970,Concert Regenburger – Domkers,N/A,N/A,N/A,N/A,N/A,1942-1943
+477,1942-12-18,Maria Stuart,False,570161,Maria Stuart,ITA,Gaetano Donizetti,1834,Maria Stuarda,lyrisch drama,1942-1943
+478,1944-12-20,De Bedelstudent,False,594598,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1944-1945
+479,1942-12-20,Ballet,False,469288,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1942-1943
+480,1942-12-20,Madame Butterfly,False,241175,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+481,1942-12-21,Concert Lieven Duvosel,False,935524,Concert Lieven Duvosel,N/A,N/A,N/A,N/A,N/A,1942-1943
+482,1942-12-21,Hansel en Gretel,False,628465,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+483,1942-12-22,De Bedelstudent,False,926760,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+484,1942-12-23,Dansfeest,False,776005,Dansfeest,N/A,N/A,N/A,N/A,N/A,1942-1943
+485,1942-12-24,Hansel en Gretel,False,594423,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+486,1942-12-25,Hansel en Gretel,False,862450,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+487,1942-12-25,De Bedelstudent,False,744574,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+488,1942-12-26,Monika,False,951865,Monika,DUI,Nico Dostal,1937,Monika,operette,1942-1943
+489,1942-12-26,De Bedelstudent,False,376255,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+490,1942-12-26,Kerstgeschenken,False,571765,Kerstgeschenken,N/A,N/A,N/A,N/A,N/A,1942-1943
+491,1942-12-27,Don Juan,False,759101,Don Juan,ITA,Wolfgang Amadeus Mozart,1787,Don Giovanni,opera buffa,1942-1943
+492,1942-12-27,Gasparone,False,968514,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+493,1942-12-29,Don Juan,False,112952,Don Juan,ITA,Wolfgang Amadeus Mozart,1787,Don Giovanni,opera buffa,1942-1943
+494,1942-12-31,De Bedelstudent,False,761943,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+495,1943-01-03,Hansel en Gretel,False,370954,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+496,1943-01-03,De Bedelstudent,False,230283,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+497,1943-01-05,Tannhäuser,False,846959,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+498,1943-01-06,Weermachtsconcert,False,355876,Weermachtsconcert,N/A,N/A,N/A,N/A,N/A,1942-1943
+499,1943-01-07,Tannhäuser,False,770812,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+500,1943-01-10,Gasparone,False,258580,Gasparone,DUI,Carl Millöcker,1884,Gasparone,operette,1942-1943
+501,1943-01-10,Hansel en Gretel,False,304452,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+502,1943-01-11,4 e Symfonieconcert,False,860496,4 e Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1942-1943
+503,1943-01-12,De Bedelstudent,False,899469,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+504,1943-01-14,Ballet Suite de Dance,False,373008,Ballet Suite de Dance,N/A,N/A,N/A,N/A,N/A,1942-1943
+505,1943-01-14,Madame Butterfly,False,619979,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+506,1943-01-17,De Lustige Weduwe,False,734261,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+507,1943-01-17,Bohème,False,980662,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+508,1943-01-19,De Lustige Weduwe,False,836394,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+509,1943-01-21,Mona Lisa,False,670208,Mona Lisa,DUI,Max von Schillings,1914,Mona Lisa,opera,1942-1943
+510,1943-01-24,Peperbol,False,765596,Peperbol,?,?,?,?,?,1942-1943
+512,1943-01-26,Mona Lisa,False,489120,Mona Lisa,DUI,Max von Schillings,1914,Mona Lisa,opera,1942-1943
+513,1943-01-28,Peperbol,False,837249,Peperbol,?,?,?,?,?,1942-1943
+514,1943-01-30,Wedstrijd: schaakspel en bridge,False,271144,Wedstrijd: schaakspel en bridge,N/A,N/A,N/A,N/A,N/A,1942-1943
+515,1943-01-31,Ballet Carnaval,False,560677,Carnaval,N/A,Jaak Opsomer,1936,Carnaval,ballet,1942-1943
+516,1943-01-31,Madame Butterfly,False,901670,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+517,1943-01-31,Tannhäuser,False,798031,Tannhauser,DUI,Richard Wagner,1845,Tannhäuser,romantische oper,1942-1943
+518,1943-02-02,Peperbol,False,618879,Peperbol,?,?,?,?,?,1942-1943
+519,1943-02-04,Ballet Suite de Dance,False,910900,Ballet Suite de Dance,N/A,N/A,N/A,N/A,N/A,1942-1943
+520,1943-02-04,Madame Butterfly,False,380676,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1942-1943
+521,1943-02-07,De Lustige Weduwe,False,982336,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+522,1943-02-07,Mona Lisa,False,172068,Mona Lisa,DUI,Max von Schillings,1914,Mona Lisa,opera,1942-1943
+523,1943-02-08,Hansel en Gretel,False,509996,Hansje en Grietje,DUI,Engelbert Humperdinck,1893,Hänsel und Gretel,kinder opera,1942-1943
+524,1943-02-09,Bohème,False,316741,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+525,1943-02-11,Bohème,False,149431,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+526,1943-02-12,5e Symfonieconcert,False,751171,5e Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1942-1943
+527,1943-02-14,De Graaf van Luxemburg,False,563207,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+528,1943-02-14,De Lustige Weduwe,False,620997,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+529,1943-02-16,De Graaf van Luxemburg,False,945106,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+530,1943-02-17,Groot Symfonisch Concert,False,372399,Groot Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+531,1943-02-18,Faust,False,761149,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+532,1943-02-19,Pianorecital,False,939072,Pianorecital,N/A,N/A,N/A,N/A,N/A,1942-1943
+533,1943-02-21,Mona,False,819731,Mona,N/A,N/A,N/A,N/A,N/A,1942-1943
+534,1943-02-21,Peperbol,False,582546,Peperbol,?,?,?,?,?,1942-1943
+535,1943-02-23,Peperbol,False,170042,Peperbol,?,?,?,?,?,1942-1943
+536,1943-02-25,Peperbol,False,778123,Peperbol,?,?,?,?,?,1942-1943
+537,1943-02-27,Bohème,False,712368,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+538,1943-02-28,Faust,False,549987,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+539,1943-02-28,De Graaf van Luxemburg,False,664892,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+540,1943-03-01,Huldebetoon,False,198933,Huldebetoon,N/A,N/A,N/A,N/A,N/A,1942-1943
+541,1943-03-02,Ballet,False,228879,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1942-1943
+542,1943-03-04,De Lustige Weduwe,False,376272,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+543,1943-03-06,De Lustige Weduwe,False,662230,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+544,1943-03-07,Bohème,False,779846,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1942-1943
+545,1943-03-07,Laagland,False,985728,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1942-1943
+546,1943-03-08,6de Symfonisch concert,False,291568,6de Symfonisch concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+547,1943-03-09,Peperbol,False,664930,Peperbol,?,?,?,?,?,1942-1943
+548,1943-03-11,De Graaf van Luxemburg,False,505478,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+549,1943-03-14,Peperbol,False,411182,Peperbol,?,?,?,?,?,1942-1943
+550,1943-03-14,De Verkochte Bruid,False,110640,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+551,1943-03-16,Rigoletto,False,730927,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1942-1943
+552,1943-03-18,De Bedelstudent,False,668112,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+553,1943-03-20,De Verkochte Bruid,False,460663,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+554,1943-03-21,Rigoletto,False,475380,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1942-1943
+555,1943-03-21,Ballet,False,663350,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1942-1943
+556,1943-03-23,De Bedelstudent,False,861009,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+557,1943-03-25,Rigoletto,False,454858,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1942-1943
+558,1943-03-27,Revue Duitse Weermacht,False,643936,Revue Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1942-1943
+559,1943-03-28,Verschillende poppenspelen in de concertzaal,False,505231,Verschillende poppenspelen in de concertzaal,N/A,N/A,N/A,N/A,N/A,1942-1943
+561,1943-03-28,De Bedelstudent,False,606540,De Bedelstudent,DUI,Carl Millöcker,1882,Der Bettelstudent,operetta,1942-1943
+562,1943-03-28,Faust,False,598720,Faust,FR,Charles Gounod,1859,Faust,grand opera,1942-1943
+563,1943-03-30,De Verkochte Bruid,False,683417,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+564,1943-04-01,De Verkochte Bruid,False,237533,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+565,1943-04-03,Kunstconcert,False,822865,Kunstconcert,N/A,N/A,N/A,N/A,N/A,1942-1943
+566,1943-04-04,De Verkochte Bruid,False,641704,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+567,1943-04-04,Rigoletto,False,698045,Rigoletto,ITA,Giuseppe Verdi,1851,Rigoletto,melodrama,1942-1943
+568,1943-04-05,7de Symfonische concert,False,524757,7de Symfonische concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+569,1943-04-06,La Traviata,False,262653,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1942-1943
+570,1943-04-07,Wiener Sängerknaben,False,619095,Wiener Sängerknaben,N/A,N/A,N/A,N/A,N/A,1942-1943
+571,1943-04-08,Laagland,False,497572,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1942-1943
+572,1943-04-09,Cavalleria Rusticana,False,470383,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+573,1943-04-09,Bajazzo,False,897317,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+574,1943-04-10,Cavalleria Rusticana,False,312382,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+575,1943-04-10,Bajazzo,False,488869,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+576,1943-04-11,Laagland,False,550770,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1942-1943
+577,1943-04-11,De Graaf van Luxemburg,False,952339,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+578,1943-04-13,De Graaf van Luxemburg,False,910644,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1942-1943
+579,1943-04-15,Knokkelbeen,False,199267,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1942-1943
+580,1943-04-18,Peperbol,False,670335,Peperbol,?,?,?,?,?,1942-1943
+581,1943-04-18,Het Land van de Glimlach,False,930533,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+582,1943-04-19,Het Land van de Glimlach,False,438194,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+583,1943-04-20,Het Land van de Glimlach,False,403456,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+584,1943-04-22,Het Land van de Glimlach,False,651760,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+585,1943-04-25,Knokkelbeen,False,359774,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1942-1943
+586,1943-04-25,De Verkochte Bruid,False,336476,De Verkochte Bruid,TSJ,Bedřich	Smetana,1866,The Bartered Bride,czech national opera,1942-1943
+587,1943-04-27,Laagland,False,588325,Laagland,DUI,Albert D'Eugen,1903,Tiefland,melodramatische oper,1942-1943
+588,1943-04-29,La Traviata,False,315130,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1942-1943
+589,1943-05-01,1-Meifeest Unie,False,757125,1-Meifeest Unie,N/A,N/A,N/A,N/A,N/A,1942-1943
+590,1943-05-02,La Traviata,False,818935,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1942-1943
+591,1943-05-02,Knokkelbeen,False,535392,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1942-1943
+592,1943-05-03,8 ste Symfonisch Concert,False,569275,8 ste Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1942-1943
+593,1943-05-04,De Dans met de Keizerin,False,252255,De Dans met de Keizerin,?,?,?,?,?,1942-1943
+594,1943-05-06,'t Was de Wind,False,116541,'t Was de Wind,?,?,?,?,?,1942-1943
+595,1943-05-06,De Dans met de Keizerin,False,715616,De Dans met de Keizerin,?,?,?,?,?,1942-1943
+596,1943-05-08,Het Land van de Glimlach,False,949606,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+597,1943-05-09,De Dans met de Keizerin,False,728966,De Dans met de Keizerin,?,?,?,?,?,1942-1943
+598,1943-05-09,Vergadering den Unie der Textiel,False,934488,Vergadering den Unie der Textiel,N/A,N/A,N/A,N/A,N/A,1942-1943
+600,1943-05-11,La Traviata,False,717620,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1942-1943
+601,1943-05-13,De Rozenkavalier,False,937167,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+602,1943-05-15,Das Konzert,False,697273,Das Konzert,N/A,N/A,N/A,N/A,N/A,1942-1943
+603,1943-05-16,De Rozenkavalier,False,859807,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+604,1943-05-16,De Dans met de Keizerin,False,911384,De Dans met de Keizerin,?,?,?,?,?,1942-1943
+605,1943-05-18,De Rozenkavalier,False,822068,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+606,1943-05-20,De Neef uit het Oosten,False,561939,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1942-1943
+607,1943-05-22,De Rozenkavalier,False,734190,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+608,1943-05-23,Het Land van de Glimlach,False,497555,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+609,1943-05-23,De Rozenkavalier,False,257876,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+610,1943-05-25,Het Land van de Glimlach,False,301504,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+611,1943-05-27,De Rozenkavalier,False,434133,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1942-1943
+612,1943-05-30,De Neef uit het Oosten,False,100853,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1942-1943
+613,1943-05-30,Het Land van de Glimlach,False,314473,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+614,1943-05-31,9 de Symfonisch Concert: Beethoven 9de symfonie,False,309743,9 de Symfonisch Concert: Beethoven 9de symfonie,N/A,N/A,N/A,N/A,N/A,1942-1943
+615,1943-06-01,De Neef uit het Oosten,False,703082,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1942-1943
+616,1943-06-03,Het Land van de Glimlach,False,493045,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+617,1943-06-06,La Traviata,False,585132,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1942-1943
+618,1943-06-06,Carmen,False,258366,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+619,1943-06-07,Bonte avond voor Duitse Weermacht,False,141149,Bonte avond voor Duitse Weermacht,N/A,N/A,N/A,N/A,N/A,1942-1943
+620,1943-06-08,Carmen,False,691555,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+621,1943-06-10,Carmen,False,519802,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+622,1943-06-13,Carmen,False,802385,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+623,1943-06-13,De Neef uit het Oosten,False,163324,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1942-1943
+624,1943-06-14,Vrienden van het Oostfront,False,298585,Vrienden van het Oostfront,N/A,N/A,N/A,N/A,N/A,1942-1943
+625,1943-06-15,De Vogelhandelaar,False,272064,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+626,1943-06-17,De Vogelhandelaar,False,494143,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+627,1943-06-20,Het Land van de Glimlach,False,812925,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+628,1943-06-20,De Vogelhandelaar,False,676607,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+629,1943-06-22,Het Land van de Glimlach,False,695165,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+630,1943-06-24,Het Land van de Glimlach,False,996976,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1942-1943
+631,1943-06-26,Carmen,False,874130,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+632,1943-06-27,Carmen,False,676669,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+633,1943-06-27,De Vledermuis,False,187776,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+634,1943-06-28,De Lustige Weduwe,False,106261,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1942-1943
+635,1943-06-29,De Vledermuis,False,530395,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+636,1943-07-01,De Vogelhandelaar,False,461649,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+637,1943-07-04,De Vledermuis,False,337874,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+638,1943-07-04,Carmen,False,280161,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+639,1943-07-06,Carmen,False,491102,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+640,1943-07-08,Carmen,False,371228,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+641,1943-07-11,De Vogelhandelaar,False,842600,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+642,1943-07-11,Cavalleria Rusticana,False,218931,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+643,1943-07-11,Paljas,False,524775,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+644,1943-07-13,Cavalleria Rusticana,False,176604,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+645,1943-07-13,Paljas,False,657566,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+646,1943-07-15,Cavalleria Rusticana,False,528073,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+647,1943-07-15,Paljas,False,840515,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+648,1943-07-17,De Vogelhandelaar,False,529753,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+649,1943-07-18,Carmen,False,225813,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1942-1943
+650,1943-07-18,De Vledermuis,False,673706,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+651,1943-07-20,De Vogelhandelaar,False,817417,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+652,1943-07-22,De Vledermuis,False,577685,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+653,1943-07-25,Cavalleria Rusticana,False,779148,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+654,1943-07-25,Paljas,False,316616,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+655,1943-07-25,De Vogelhandelaar,False,801500,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+656,1943-07-27,De Vledermuis,False,403509,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1942-1943
+657,1943-07-29,Cavalleria Rusticana,False,335050,Cavalleria Rusticana,ITA,Pietro Mascagni,1890,Cavalleria rusticana,?,1942-1943
+658,1943-07-29,Paljas,False,737762,Paljas,ITA,Ruggiero Leoncavallo,1892,Pagliacci,verisme,1942-1943
+659,1943-07-29,De Vogelhandelaar,False,124788,De Vogelhandelaar,DUI,Carl Zeller,1891,Der Vogelhändler,operette,1942-1943
+660,1943-07-31,Raul der Sabinerinnen,False,943611,Raul der Sabinerinnen,DUI,Johann Strauss,1831,Der Raub der Sabinerinnen,ochestra,1942-1943
+661,1943-08-12,Studiedag jeugd op leiding,False,165654,Studiedag jeugd op leiding,N/A,N/A,N/A,N/A,N/A,1942-1943
+663,1943-08-22,IJzebevaartherdenking,False,660274,IJzebevaartherdenking,N/A,N/A,N/A,N/A,N/A,1942-1943
+664,1943-09-08,Madame Butterfly,False,862197,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+665,1943-09-19,Vor suppé bis Keude,False,488601,Vor suppé bis Keude,N/A,N/A,N/A,N/A,N/A,1943-1944
+666,1943-09-24,Wereldrevue,False,964689,Wereldrevue,N/A,N/A,N/A,N/A,N/A,1943-1944
+667,1943-09-26,Feest der meesters haarkappers: ‘défilé des coiffeuse’,False,553037,Feest der meesters haarkappers: ‘défilé des coiffeuse’,N/A,N/A,N/A,N/A,N/A,1943-1944
+668,1943-09-26,Gezellig samenzijn,False,318701,Gezellig samenzijn,N/A,N/A,N/A,N/A,N/A,1943-1944
+669,1943-09-30,Herbergprinses,False,992757,Herbergprinses,NL,Jan Blockx,1896,Herbergprinses,zangspel,1943-1944
+670,1943-10-03,De Parelvissers,False,765971,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1943-1944
+671,1943-10-03,Paganini,False,286745,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+672,1943-10-04,Symfonieconcert,False,297139,Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+673,1943-10-05,Herbergprinses,False,995725,Herbergprinses,NL,Jan Blockx,1896,Herbergprinses,zangspel,1943-1944
+674,1943-10-07,Paganini,False,282643,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+675,1943-10-08,Dansavond Sergé Lifar,False,580662,Dansavond Sergé Lifar,N/A,N/A,N/A,N/A,N/A,1943-1944
+676,1943-10-10,Madame Butterfly,False,669521,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+677,1943-10-10,Herbergprinses,False,213243,Herbergprinses,NL,Jan Blockx,1896,Herbergprinses,zangspel,1943-1944
+678,1943-10-12,Paganini,False,823661,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+679,1943-10-14,De Parelvissers,False,912936,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1943-1944
+680,1943-10-17,Paganini,False,921475,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+681,1943-10-17,Madame Butterfly,False,989668,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+682,1943-10-18,Concert Duitse Wehrmacht,False,591730,Concert Duitse Wehrmacht,N/A,N/A,N/A,N/A,N/A,1943-1944
+683,1943-10-19,De Parelvissers,False,251678,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1943-1944
+684,1943-10-21,Madame Butterfly,False,566256,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+685,1943-10-24,Herbergprinses,False,701998,Herbergprinses,NL,Jan Blockx,1896,Herbergprinses,zangspel,1943-1944
+686,1943-10-24,De Parelvissers,False,678966,De Parelvisschers,FR,Georges Bizet,1863,Les pêcheurs de perles,romantische opera,1943-1944
+687,1943-10-26,Madame Butterfly,False,772741,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+688,1943-10-28,De Tsarewitsch,False,946011,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+689,1943-10-30,Privaat feest door Unie der hand- en geestesarbeiders,False,853183,Privaat feest door Unie der hand- en geestesarbeiders,N/A,N/A,N/A,N/A,N/A,1943-1944
+690,1943-10-31,De Tsarewitsch,False,636920,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+691,1943-10-31,De Neef uit het Oosten,False,835180,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1943-1944
+692,1943-11-02,De Neef uit het Oosten,False,848606,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1943-1944
+693,1943-11-04,De Neef uit het Oosten,False,299327,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1943-1944
+694,1943-11-06,De Tsarewitsch,False,969969,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+695,1943-11-07,De Neef uit het Oosten,False,812866,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1943-1944
+696,1943-11-07,De Tsarewitsch,False,226958,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+697,1943-11-08,Ontvangst filmstar Heinrich George,False,640816,Ontvangst filmstar Heinrich George,N/A,N/A,N/A,N/A,N/A,1943-1944
+698,1943-11-08,Der Rechter von Zakamer,False,247198,Der Rechter von Zakamer,N/A,N/A,N/A,N/A,N/A,1943-1944
+699,1943-11-09,De Tsarewitsch,False,667163,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+700,1943-11-11,De Barbier van Sevilla,False,620310,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+701,1943-11-12,2 de Symfonieconcert,False,381352,2 de Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+702,1943-11-14,Bal in de opera,False,240711,Bal in de opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+703,1943-11-14,De Barbier van Sevilla,False,725371,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+704,1943-11-16,De Barbier van Sevilla,False,596130,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+705,1943-11-18,Bal in de opera,False,287685,Bal in de opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+706,1943-11-19,Weermachtconcert bonte avond: Schlag auf Schlag,False,614212,Weermachtconcert bonte avond: Schlag auf Schlag,N/A,N/A,N/A,N/A,N/A,1943-1944
+707,1943-11-20,Weermachtconcert bonte avond: Schlag auf Schlag,False,582521,Weermachtconcert bonte avond: Schlag auf Schlag,N/A,N/A,N/A,N/A,N/A,1943-1944
+708,1943-11-21,Paganini,False,253263,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+709,1943-11-21,Bal in de opera,False,117230,Bal in de opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+710,1943-11-23,Bal in de opera,False,338789,Bal in de opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+711,1943-11-25,De Vlinder,False,784138,De Vlinder,N/A,N/A,N/A,N/A,N/A,1943-1944
+712,1943-11-25,Ballet Pan,False,923541,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1943-1944
+713,1943-11-25,Salomé,False,245275,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+714,1943-11-28,De Barbier van Sevilla,False,863342,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+715,1943-11-28,Ballet Pan,False,985162,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1943-1944
+716,1943-11-28,Salomé,False,906067,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+717,1943-11-30,Ballet Pan,False,915509,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1943-1944
+718,1943-11-30,Salomé,False,829694,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+719,1943-12-02,Paganini,False,988041,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+720,1943-12-05,Sint Niklaasfeest VNV,False,282477,Sint Niklaasfeest VNV,N/A,N/A,N/A,N/A,N/A,1943-1944
+721,1943-12-05,Salomé,False,997131,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+722,1943-12-05,Ballet Pan,False,284402,Pan,FR,Maurits Schoemaker,1937,Pan,ballet,1943-1944
+723,1943-12-05,De Tsarewitsch,False,369026,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+724,1943-12-07,Orpheus,False,575700,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1943-1944
+725,1943-12-09,Orpheus,False,421972,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1943-1944
+726,1943-12-11,Sint Niklaasfeest der Wapen SS,False,698016,Sint Niklaasfeest der Wapen SS,N/A,N/A,N/A,N/A,N/A,1943-1944
+727,1943-12-11,Zaterdagavondconcert,False,392468,Zaterdagavondconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+728,1943-12-12,De Tsarewitsch,False,865814,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+729,1943-12-12,Orpheus,False,987223,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1943-1944
+730,1943-12-14,Paganini,False,395279,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+731,1943-12-16,De Tsarewitsch,False,369814,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+732,1943-12-17,3 de Symfonieconcert,False,419411,3 de Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+733,1943-12-18,De Barbier van Sevilla,False,995118,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+734,1943-12-19,Knokkelbeen,False,209169,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1943-1944
+735,1943-12-19,Paganini,False,329687,Paganini,DUI,Franz Lehár,1925,Paganini,operetta,1943-1944
+736,1943-12-21,De Tsarewitsch,False,166779,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+737,1943-12-23,Knokkelbeen,False,228159,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1943-1944
+738,1943-12-25,De Tsarewitsch,False,641355,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+739,1943-12-25,Kerstfeest Vlaamschen Toeristenbond,False,257735,Kerstfeest Vlaamschen Toeristenbond,N/A,N/A,N/A,N/A,N/A,1943-1944
+740,1943-12-25,Werther,False,511567,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+741,1943-12-26,Werther,False,339321,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+742,1943-12-26,Knokkelbeen,False,632800,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1943-1944
+743,1943-12-27,Kerstfeest door De Vlag,False,199400,Kerstfeest door De Vlag,N/A,N/A,N/A,N/A,N/A,1943-1944
+744,1943-12-28,Knokkelbeen,False,412653,Knokkelbeen,NL,Emiel Hullebroeck,?,Knokkelbeen,zangspel,1943-1944
+745,1943-12-30,Klaasfeest,False,426203,Klaasfeest,N/A,N/A,N/A,N/A,N/A,1943-1944
+746,1943-12-30,Kinderfeest door Rode Kruis ten voordele van kinderen der krijgsgevangenen,False,362427,Kinderfeest door Rode Kruis ten voordele van kinderen der krijgsgevangenen,N/A,N/A,N/A,N/A,N/A,1943-1944
+747,1943-12-30,Werther,False,162923,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+748,1944-01-02,Peperbol,False,347734,Peperbol,?,?,?,?,?,1943-1944
+749,1944-01-02,Werther,False,454779,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+750,1944-01-03,Peperbol,False,770667,Peperbol,?,?,?,?,?,1943-1944
+751,1944-01-04,Feest voor het stadspersoneel,False,685841,Feest voor het stadspersoneel,N/A,N/A,N/A,N/A,N/A,1943-1944
+752,1944-01-04,Werther,False,878756,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+753,1944-01-06,Peperbol,False,691607,Peperbol,?,?,?,?,?,1943-1944
+754,1944-01-08,Bal in de Opera,False,320035,Bal in de Opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+755,1944-01-09,Werther,False,189330,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+756,1944-01-09,Bal in de Opera,False,128615,Bal in de Opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+757,1944-01-10,Symfonisch concert,False,461189,Symfonisch concert,N/A,N/A,N/A,N/A,N/A,1943-1944
+758,1944-01-11,Peperbol,False,892721,Peperbol,?,?,?,?,?,1943-1944
+759,1944-01-13,Bal in de Opera,False,117399,Bal in de Opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+760,1944-01-16,Manon,False,335820,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+761,1944-01-16,Peperbol,False,673054,Peperbol,?,?,?,?,?,1943-1944
+762,1944-01-18,Bal in de Opera,False,728224,Bal in de Opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+763,1944-01-20,Manon,False,917055,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+764,1944-01-23,Bal in de Opera,False,378307,Bal in de Opera,N/A,N/A,N/A,N/A,N/A,1943-1944
+765,1944-01-23,Faust,False,982668,Faust,FR,Charles Gounod,1859,Faust,grand opera,1943-1944
+766,1944-01-25,Manon,False,205959,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+767,1944-01-25,Werther,False,174547,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+768,1944-01-27,Faust,False,908670,Faust,FR,Charles Gounod,1859,Faust,grand opera,1943-1944
+769,1944-01-29,Kaart - en schaaktoernooi,False,782761,Kaart - en schaaktoernooi,N/A,N/A,N/A,N/A,N/A,1943-1944
+770,1944-01-29,Manon,False,230164,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+771,1944-01-30,Madame Dubarry,False,646157,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+772,1944-01-30,Manon,False,547103,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+773,1944-02-01,Faust,False,841877,Faust,FR,Charles Gounod,1859,Faust,grand opera,1943-1944
+774,1944-02-03,Madame Dubarry,False,767374,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+775,1944-02-06,Faust,False,600639,Faust,FR,Charles Gounod,1859,Faust,grand opera,1943-1944
+776,1944-02-06,Madame Dubarry,False,351171,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+777,1944-02-07,5 de Symfonieconcert,False,158207,5 de Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+778,1944-02-08,Madame Dubarry,False,164221,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+779,1944-02-10,Orpheus,False,984753,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1943-1944
+780,1944-02-12,Concertavond: Volksconcert,False,259643,Concertavond: Volksconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+781,1944-02-13,De Lustige Weduwe,False,187972,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+782,1944-02-13,Manon,False,901394,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+783,1944-02-15,Lohengrin,False,863603,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+784,1944-02-17,De Lustige Weduwe,False,325223,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+785,1944-02-20,Lohengrin,False,691005,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+786,1944-02-20,De Lustige Weduwe,False,401926,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+787,1944-02-22,De Lustige Weduwe,False,217739,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+788,1944-02-24,Peperbol,False,316114,Peperbol,?,?,?,?,?,1943-1944
+789,1944-02-26,Weermachtconcert,False,598104,Weermachtconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+790,1944-02-27,Lohengrin,False,123766,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+791,1944-02-27,Madame Dubarry,False,541957,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+792,1944-02-28,Dansavond José Torrès,False,149278,Dansavond José Torrès,N/A,N/A,N/A,N/A,N/A,1943-1944
+793,1944-02-29,Madame Dubarry,False,155229,Madame Dubarry,DUI,Carl Millöcker,1879,Gräfin Dubarry,operette,1943-1944
+794,1944-03-01,Lohengrin,False,539993,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+795,1944-03-02,Lohengrin,False,468858,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+796,1944-03-03,Lohengrin,False,157097,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+797,1944-03-05,Madame Butterfly,False,932713,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+798,1944-03-05,Monika,False,204206,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+799,1944-03-06,6 de Symfonisch Concert,False,192175,6 de Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1943-1944
+800,1944-03-07,Monika,False,878948,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+801,1944-03-09,Monika,False,628214,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+802,1944-03-12,Orpheus,False,342662,Orpheus' Dood,FR,Jacques Offenbach,1858,Orphée aux enfers,operetta,1943-1944
+803,1944-03-12,Madame Butterfly,False,658247,Madame Butterfly,ITA,Giacomo Puccini,1904,Madama Butterfly,opera seria,1943-1944
+804,1944-03-13,Pianorecital Eduardo,False,795634,Pianorecital Eduardo,N/A,N/A,N/A,N/A,N/A,1943-1944
+805,1944-03-14,Pianorecital Delpuys,False,690217,Pianorecital Delpuys,N/A,N/A,N/A,N/A,N/A,1943-1944
+806,1944-03-14,Werther,False,386938,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+807,1944-03-16,Ballet Tambolene,False,999619,Tombeleene,FR,Godfried Devreese,1927,Tombelène,ballet-mimodrama,1943-1944
+808,1944-03-16,Salomé,False,770238,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+809,1944-03-18,Dans - en zangavond,False,703821,Dans - en zangavond,N/A,N/A,N/A,N/A,N/A,1943-1944
+810,1944-03-19,Monika,False,901220,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+811,1944-03-19,Ballet Tambolene,False,349747,Tombeleene,FR,Godfried Devreese,1927,Tombelène,ballet-mimodrama,1943-1944
+812,1944-03-19,Salomé,False,813985,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+813,1944-03-20,Monika,False,860445,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+814,1944-03-21,Ballet Tambolene,False,391144,Tombeleene,FR,Godfried Devreese,1927,Tombelène,ballet-mimodrama,1943-1944
+815,1944-03-21,Salomé,False,898516,De Tragedie van Salomé,N/A,Florent Schmitt,1907,La Tragédie de Salomé,ballet,1943-1944
+816,1944-03-23,Manina,False,293463,Manina,?,?,?,?,?,1943-1944
+817,1944-03-24,Strijkkwartet De Groot,False,256485,Strijkkwartet De Groot,N/A,N/A,N/A,N/A,N/A,1943-1944
+818,1944-03-26,De Lustige Weduwe,False,231921,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+819,1944-03-26,Werther,False,475238,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+820,1944-03-28,Monika,False,101536,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+821,1944-03-30,Werther,False,350900,Werther,FR,Jules Massenet,1892,Werther,lyrisch drama,1943-1944
+822,1944-04-02,Manina,False,770613,Manina,?,?,?,?,?,1943-1944
+823,1944-04-02,De Lustige Weduwe,False,805033,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+824,1944-04-04,De Lustige Weduwe,False,863757,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+825,1944-04-07,Parsifal,False,349446,Parsifal,DUI,Richard Wagner,1882,Parsifal,music drama,1943-1944
+826,1944-04-09,Manon,False,636074,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+827,1944-04-09,Manina,False,833358,Manina,?,?,?,?,?,1943-1944
+828,1944-04-10,Parsifal,False,723104,Parsifal,DUI,Richard Wagner,1882,Parsifal,music drama,1943-1944
+829,1944-04-11,Manina,False,316852,Manina,?,?,?,?,?,1943-1944
+830,1944-04-13,Manon,False,447046,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+831,1944-04-15,Parsifal,False,775411,Parsifal,DUI,Richard Wagner,1882,Parsifal,music drama,1943-1944
+832,1944-04-16,De Barbier van Sevilla,False,677025,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+833,1944-04-16,Monika,False,815536,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+834,1944-04-17,Symfonieconcert,False,665660,Symfonieconcert,N/A,N/A,N/A,N/A,N/A,1943-1944
+835,1944-04-18,Manon,False,137448,Manon,FR,Jules Massenet,1884,Manon,komische oper,1943-1944
+836,1944-04-20,Lohengrin,False,780234,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+837,1944-04-22,Manina,False,520842,Manina,?,?,?,?,?,1943-1944
+838,1944-04-23,Monika,False,432787,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+839,1944-04-23,Lohengrin,False,861965,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+840,1944-04-24,Monika,False,697340,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+841,1944-04-25,Manina,False,910763,Manina,?,?,?,?,?,1943-1944
+842,1944-04-27,Monika,False,432613,Monika,DUI,Nico Dostal,1937,Monika,operette,1943-1944
+843,1944-04-30,Lohengrin,False,982931,Lohengrin,DUI,Richard Wagner,1850,Lohengrin,romantische oper,1943-1944
+844,1944-04-30,De Barbier van Sevilla,False,685982,De Barbier van Sevilla,ITA,Giovanni Paisiello,1782,Il barbiere di Siviglia,opera buffa,1943-1944
+845,1944-05-02,Carmen,False,436623,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1943-1944
+846,1944-05-04,Carmen,False,586500,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1943-1944
+847,1944-05-07,De Lustige Weduwe,False,443301,De Lustige Weduwe,DUI,Franz Lehár,1906,Die lustige Witwe,operette,1943-1944
+848,1944-05-07,Carmen,False,263028,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1943-1944
+849,1944-05-09,Het Land van de Glimlach,False,591818,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1943-1944
+850,1944-05-11,Een Meisje als Gij,False,213089,Een Meisje als Gij,?,?,?,?,?,1943-1944
+851,1944-05-13,Leontientje,False,327065,Leontientje,NL,Felix Timmermans,?,Leontientje,toneelspel,1943-1944
+852,1944-05-14,Een Meisje als Gij,False,779766,Een Meisje als Gij,?,?,?,?,?,1943-1944
+853,1944-05-15,8 ste Symfonisch Concert,False,622973,8 ste Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1943-1944
+854,1944-05-16,Een Meisje als Gij,False,566702,Een Meisje als Gij,?,?,?,?,?,1943-1944
+855,1944-05-20,Het Land van de Glimlach,False,715563,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1943-1944
+856,1944-05-21,Het Land van de Glimlach,False,507604,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1943-1944
+857,1944-05-28,De Graaf van Luxemburg,False,257755,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1943-1944
+858,1944-05-29,Bohème,False,929450,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1943-1944
+859,1944-06-01,Het Land van de Glimlach,False,971047,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1943-1944
+860,1944-06-04,Het Land van de Glimlach,False,790790,Het Land van den Glimlach,DUI,Franz Lehár,1923,Das Land des Lächelns,leichte oper,1943-1944
+861,1944-06-04,La Traviata,False,600844,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1943-1944
+862,1944-06-05,9 de Symfonisch Concert,False,999293,9 de Symfonisch Concert,N/A,N/A,N/A,N/A,N/A,1943-1944
+863,1944-06-08,La Traviata,False,463479,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1943-1944
+864,1944-06-11,La Traviata,False,186155,Traviata,ITA,Giuseppe Verdi,1853,La traviata,opera semiseria,1943-1944
+865,1944-06-11,De Rozenkavalier,False,413773,De Rozenkavalier,DUI,Richard Strauss,1911,Der Rosenkavalier,comic-fantasy,1943-1944
+866,1944-06-15,De Graaf van Luxemburg,False,380875,De Graaf van Luxemburg,DUI,Franz Lehár,1909,Der Graf von Luxemburg,operette,1943-1944
+867,1944-06-18,De Vledermuis,False,484447,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1943-1944
+868,1944-06-18,Carmen,False,685576,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1943-1944
+869,1944-06-22,Carmen,False,466981,Carmen,FR,Georges Bizet,1875,Carmen,opéra comique,1943-1944
+870,1944-06-25,"Eva, het fabrieksmeisje",False,280199,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1943-1944
+871,1944-06-25,De Vledermuis,False,620077,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1943-1944
+872,1944-06-29,De Vledermuis,False,765991,De Vledermuis,DUI,Johan Strauss,1874,Die Fledermaus,operetta,1943-1944
+873,1944-07-02,Tsarewitsch,False,109578,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+874,1944-07-02,Bohème,False,706634,Bohème,ITA,Giacomo Puccini,1897,La bohème,verismo opera,1943-1944
+875,1944-07-04,"Eva, het fabrieksmeisje",False,931723,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1943-1944
+876,1944-07-06,"Eva, het fabrieksmeisje",False,170949,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1943-1944
+877,1944-07-08,In het Witte Paard,False,527985,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+878,1944-07-09,In het Witte Paard,False,612132,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+880,1944-07-10,Spreekbeurt en zang met orkest van het VNV,False,955795,Spreekbeurt en zang met orkest van het VNV,N/A,N/A,N/A,N/A,N/A,1943-1944
+881,1944-07-11,In het Witte Paard,False,536901,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+882,1944-07-12,In het Witte Paard,False,832684,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+883,1944-07-13,In het Witte Paard,False,982716,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+884,1944-07-16,Een Meisje als Gij,False,812230,Een Meisje als Gij,?,?,?,?,?,1943-1944
+885,1944-07-16,"Eva, het fabrieksmeisje",False,487346,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1943-1944
+886,1944-07-18,De Tsarewitsch,False,800362,De Tsarewitsch,DUI,Franz Lehár,1926,Der Zarewitsch,operette,1943-1944
+887,1944-07-20,Gemaskerd Bal,False,961776,Gemaskerd Bal,N/A,N/A,N/A,N/A,N/A,1943-1944
+888,1944-07-22,Een Meisje als Gij,False,525195,Een Meisje als Gij,?,?,?,?,?,1943-1944
+889,1944-07-23,Gemaskerd Bal,False,348302,Gemaskerd Bal,N/A,N/A,N/A,N/A,N/A,1943-1944
+890,1944-07-23,In het Witte Paard,False,721684,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+891,1944-07-25,In het Witte Paard,False,873739,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+892,1944-07-27,In het Witte Paard,False,889380,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+893,1944-07-30,In het Witte Paard,False,262446,In het Witte Paard,DUI,Ralph Benatzky,1899,Im Weißen Rößl,operette,1943-1944
+894,1944-07-30,Gemaskerd Bal,False,232434,Gemaskerd Bal,N/A,N/A,N/A,N/A,N/A,1943-1944
+895,1944-08-12,"Eva, het fabrieksmeisje",False,344420,"Eva, het fabrieksmeisje",FR,Franz Lehár,1911,Eva,operette,1943-1944
+896,1944-08-13,Spreekbeurt SS Karel Dhaese,False,915443,Spreekbeurt SS Karel Dhaese,N/A,N/A,N/A,N/A,N/A,1943-1944
+897,1944-08-26,De Neef uit het Oosten,False,641676,De Neef uit het Oosten,NL,?,1925,De Neef uit het Oosten,toneelstuk,1943-1944
